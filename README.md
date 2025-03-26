@@ -3,6 +3,8 @@ This project showcases the data visualization of a sample patient dataset from h
 
 While this was primarily a learning project, many of these methods are reminiscent of an upcoming project I am working on that will focus on NYC data! 
 
+![image_alt](https://github.com/frawnda/Flu-Shot-Dashboard-SQL-Tableau/blob/c9fb591d767f6f5e0f26af48a970d8341551688a/flu_shot_dashboard_img.png)
+
 Notes:
 - Thank you for @DataWizardry for his amazing guidance for this project! Everything from the code to the dashboard wouldn't have been possible without his course.
 - All patient data was generated from Synthea, a patient generator that models the medical history of synthetic patients.
