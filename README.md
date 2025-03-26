@@ -1,4 +1,4 @@
-# Flu-Shot-Dashboard-SQL-Tableau
+# Overview of Project Details
 This project showcases the data visualization of a sample patient dataset from hospitals in several counties located in Massachusetts. The primary objective is to stratify any possible determinants of flu shot percentages within a given population.
 
 While this was primarily a learning project, many of these methods are reminiscent of an upcoming project I am working on that will focus on NYC data! 
