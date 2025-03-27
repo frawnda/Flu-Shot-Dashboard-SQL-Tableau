@@ -6,7 +6,7 @@ While this was primarily a learning project, many of these methods are reminisce
 ![image_alt](https://github.com/frawnda/Flu-Shot-Dashboard-SQL-Tableau/blob/c9fb591d767f6f5e0f26af48a970d8341551688a/flu_shot_dashboard_img.png)
 
 Notes:
-- Thank you for @DataWizardry for his amazing guidance for this project! Everything from the code to the dashboard wouldn't have been possible without his course.
+- Thank you @DataWizardry for his amazing guidance for this project! Everything from the code to the dashboard wouldn't have been possible without his course.
 - All patient data was generated from Synthea, a patient generator that models the medical history of synthetic patients.
 - PostgreSQL was used for all queries. Tableau was used for data aggregation and visualization.
 - Small usage of Canva for additional icons.
